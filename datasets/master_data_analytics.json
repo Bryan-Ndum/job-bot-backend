@@ -1,0 +1,35 @@
+{
+  "summary": "Data analyst with experience in healthcare analytics, forecasting, and Python-based modeling. Skilled in SQL, dashboards, and clear decision-ready insights.",
+  "skills": [
+    "Python", "SQL", "Pandas", "Power BI", "Excel",
+    "Data Cleaning", "Forecasting", "Machine Learning (Basic)",
+    "Visualization", "Statistics"
+  ],
+  "experience": [
+    {
+      "title": "Healthcare Data Analytics Extern — TruBridge",
+      "dates": "Sep 2025 – Oct 2025",
+      "bullets": [
+        "Analyzed datasets to identify healthcare trends and inefficiencies.",
+        "Applied forecasting models to support hospital recommendations.",
+        "Developed dashboards showing patient and provider performance."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "Supply Chain Forecasting Project",
+      "dates": "2024",
+      "bullets": [
+        "Built MAPE-optimized forecasting models using Python.",
+        "Analyzed seasonal and trend patterns for demand prediction.",
+        "Developed reporting visuals for client insights."
+      ]
+    }
+  ],
+  "education": "Bachelor of Science (B.S.) in Computer Science & Cybersecurity — UNC Pembroke, 2025",
+  "certifications": [
+    "Google Data Analytics (In Progress)",
+    "CompTIA Security+"
+  ]
+}

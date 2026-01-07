@@ -1,0 +1,63 @@
+{
+  "summary": "Motivated technology professional with experience across cybersecurity, IT support, data analytics, and full-stack development. Strong foundation in troubleshooting, systems management, cloud platforms, and scripting. Proven ability to learn quickly, adapt to new environments, and deliver high-quality technical solutions. Seeking opportunities to contribute to fast-paced teams through problem-solving, communication, and hands-on technical skills.",
+  
+  "skills": [
+    "Python", "JavaScript", "SQL", "HTML/CSS",
+    "Linux", "Windows Administration",
+    "Networking Fundamentals", "Troubleshooting",
+    "Customer Support", "Ticketing Systems",
+    "Cloud Basics (AWS, GCP)", "Database Management",
+    "Automation", "Git/GitHub"
+  ],
+
+  "experience": [
+    {
+      "title": "IT Support Intern – WorldStrides",
+      "dates": "Summer 2025",
+      "bullets": [
+        "Resolved hardware, software, and network issues for staff and program equipment.",
+        "Configured, imaged, and deployed over 50+ devices to ensure operational readiness.",
+        "Performed troubleshooting for account access, printing, VPN, Wi-Fi, and system updates."
+      ]
+    },
+    {
+      "title": "Undergraduate Research Assistant – UNC Pembroke",
+      "dates": "Mar 2024 to Dec 2025",
+      "bullets": [
+        "Assisted in technical experiments involving software-defined networking and automation.",
+        "Configured Linux-based environments and executed network analysis tasks.",
+        "Documented research outcomes and collaborated with faculty on security experiments."
+      ]
+    },
+    {
+      "title": "Customer Service & Retail Associate – Walmart",
+      "dates": "Apr 2024 to Aug 2024",
+      "bullets": [
+        "Provided customer support, issue resolution, and front-end service with high accuracy.",
+        "Handled transactions, refunds, inventory checks, and store operations efficiently.",
+        "Consistently recognized for reliability, professionalism, and teamwork."
+      ]
+    }
+  ],
+
+  "projects": [
+    {
+      "title": "AI Music Recommendation System",
+      "bullets": [
+        "Built a hybrid Python/JS system integrated with Spotify API.",
+        "Implemented ML-based classification for recommending personalized tracks."
+      ]
+    },
+    {
+      "title": "AfroSecured Platform",
+      "bullets": [
+        "Developed online security verification prototype for fraud detection and trust scoring.",
+        "Built at HackHarvard within 36 hours, integrating Visa API endpoints."
+      ]
+    }
+  ],
+
+  "education": "Bachelor of Science, Cybersecurity – University of North Carolina at Pembroke, 2025",
+
+  "certifications": "CompTIA Security+, Qualys Vulnerability Management"
+}

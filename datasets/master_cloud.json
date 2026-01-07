@@ -1,0 +1,35 @@
+{
+  "summary": "Cloud engineer with experience deploying secure environments, building automation workflows, and supporting cloud infrastructure. Focus on reliability and scalability.",
+  "skills": [
+    "AWS", "IAM", "EC2", "S3", "Cloud Security", "Python Automation",
+    "Docker", "Networking", "Linux", "CI/CD", "Terraform (Basic)"
+  ],
+  "experience": [
+    {
+      "title": "Cloud Engineering Intern — Zegs Group",
+      "dates": "2025",
+      "bullets": [
+        "Configured cloud compute environments and storage systems.",
+        "Automated workloads using Python and serverless logic.",
+        "Supported early development of cloud-powered fintech services."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "ZegsPay Fintech Architecture",
+      "dates": "2025",
+      "bullets": [
+        "Designed cloud + blockchain system diagrams.",
+        "Built authentication via Supabase and secure REST endpoints.",
+        "Integrated mobile money rails for Cameroon → USA transfers."
+      ]
+    }
+  ],
+  "education": "Bachelor of Science (B.S.) in Computer Science & Cybersecurity — UNC Pembroke, 2025",
+  "certifications": [
+    "AWS Cloud Practitioner (In Progress)",
+    "CompTIA Security+"
+  ]
+}
+

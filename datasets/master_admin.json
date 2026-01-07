@@ -1,0 +1,76 @@
+{
+  "summary": "Organized and detail minded student with experience supporting front desk operations, program logistics, and basic technology needs. Comfortable managing schedules, records, and communication for busy environments while staying calm under pressure. Interested in administrative, coordinator, or operations assistant roles that involve both people and systems.",
+
+  "skills": [
+    "Office Administration",
+    "Front Desk Operations",
+    "Scheduling and Calendar Support",
+    "Record Keeping",
+    "Customer and Student Service",
+    "Email and Phone Communication",
+    "Basic Microsoft Office",
+    "Document Preparation",
+    "Basic IT Troubleshooting",
+    "Problem Solving",
+    "Prioritization",
+    "Team Collaboration"
+  ],
+
+  "experience": [
+    {
+      "title": "Desk Operations Assistant, UNC Pembroke Housing",
+      "dates": "Sep 2022 to Dec 2025",
+      "bullets": [
+        "Handled front desk responsibilities including greeting students, answering questions, and connecting them with the right department.",
+        "Maintained logs of incidents, equipment loans, and building access issues with attention to detail.",
+        "Coordinated with campus partners such as housing, maintenance, and IT when follow up was needed.",
+        "Helped manage a steady flow of visitors and calls while keeping records accurate and organized."
+      ]
+    },
+    {
+      "title": "Support and Operations Intern, WorldStrides Envision",
+      "dates": "Summer 2025",
+      "bullets": [
+        "Assisted with program setup tasks including materials preparation and coordination of staff needs.",
+        "Supported staff with both logistics and basic technology concerns to keep programs running smoothly.",
+        "Communicated clearly with different teams and documented recurring issues for future improvement."
+      ]
+    },
+    {
+      "title": "Tech Sales and Electronics Associate, JBC Electronic Shop",
+      "dates": "2019 to 2022",
+      "bullets": [
+        "Provided front line customer service in a busy electronics shop, answering questions and managing expectations.",
+        "Handled basic paperwork related to sales, repairs, and returns.",
+        "Kept the workspace and displays organized so customers could find what they needed easily."
+      ]
+    }
+  ],
+
+  "projects": [
+    {
+      "title": "Front Desk Operations Checklist",
+      "bullets": [
+        "Created a checklist that covers opening, mid shift, and closing tasks for a student housing front desk.",
+        "Included tasks related to logs, keys, equipment, and communication to reduce errors.",
+        "Designed the checklist to be easy for new staff to follow with minimal training."
+      ]
+    },
+    {
+      "title": "Incident and Request Tracking Sheet",
+      "bullets": [
+        "Designed a simple spreadsheet format to track student requests, issues, and resolution status.",
+        "Used clear columns for who raised the issue, what happened, who handled it, and when it was completed.",
+        "Improved follow up consistency by making it easier to see open items."
+      ]
+    }
+  ],
+
+  "education": "Bachelor of Science in Cybersecurity, Minor in Economics, University of North Carolina at Pembroke, 2025",
+
+  "certifications": [
+    "CompTIA Security+",
+    "Qualys Vulnerability Management Certification",
+    "Truist Emerging Leaders Certification"
+  ]
+}

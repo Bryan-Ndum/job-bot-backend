@@ -1,0 +1,75 @@
+{
+  "summary": "Self directed student with experience working in remote and hybrid environments through research, externships, and independent projects. Comfortable communicating in writing, documenting work, and using collaboration tools to stay aligned with a distributed team. Looking for remote friendly junior roles in IT, cybersecurity, or software support.",
+
+  "skills": [
+    "Remote Work Practices",
+    "Asynchronous Communication",
+    "Documentation and Note Taking",
+    "Time Management",
+    "Video Conferencing Tools",
+    "Ticketing and Issue Tracking",
+    "Basic IT Support",
+    "Python Scripting",
+    "Security Awareness",
+    "Git and GitHub",
+    "Task Management Tools",
+    "Customer and Stakeholder Communication"
+  ],
+
+  "experience": [
+    {
+      "title": "Data Analytics Extern, TruBridge (Remote)",
+      "dates": "2025",
+      "bullets": [
+        "Completed a structured remote externship where all collaboration took place through online tools and scheduled calls.",
+        "Submitted work through shared platforms and responded to feedback within expected time frames.",
+        "Documented assumptions, methods, and results clearly so mentors could quickly understand the analysis."
+      ]
+    },
+    {
+      "title": "Cybersecurity Research Assistant, UNC Pembroke",
+      "dates": "Mar 2024 to Dec 2025",
+      "bullets": [
+        "Coordinated research tasks using shared documents, code repositories, and periodic check in meetings.",
+        "Maintained lab notes and experiment logs with enough detail for others to reproduce steps independently.",
+        "Managed personal schedule to balance research work, classes, and other commitments."
+      ]
+    },
+    {
+      "title": "Founder, AfroSecured",
+      "dates": "2024 to Present",
+      "bullets": [
+        "Collaborated with mentors and peers remotely while refining the AfroSecured concept and features.",
+        "Used messaging tools, shared boards, and calls to discuss design ideas and next steps.",
+        "Worked independently for long stretches while keeping artifacts updated so others could follow progress."
+      ]
+    }
+  ],
+
+  "projects": [
+    {
+      "title": "Remote Research and Experiment Tracking Template",
+      "bullets": [
+        "Created a template for planning experiments, tracking status, and storing results in a way that supports remote collaboration.",
+        "Organized sections for goals, configuration, results, and next ideas, making it easier to hand off work.",
+        "Used this format across several research tasks to stay consistent and transparent."
+      ]
+    },
+    {
+      "title": "Portfolio of Remote Friendly Labs and Scripts",
+      "bullets": [
+        "Built small scripts and notebooks that can run on remote machines with minimal setup.",
+        "Documented how to clone, configure, and run each item so that mentors and reviewers can try them easily.",
+        "Improved instructions based on feedback from others who used the materials on their own systems."
+      ]
+    }
+  ],
+
+  "education": "Bachelor of Science in Cybersecurity, Minor in Economics, University of North Carolina at Pembroke, Expected Graduation December 2025",
+
+  "certifications": [
+    "CompTIA Security+",
+    "Qualys Vulnerability Management Certification",
+    "Truist Emerging Leaders Certification"
+  ]
+}

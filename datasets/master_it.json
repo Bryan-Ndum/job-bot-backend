@@ -1,0 +1,44 @@
+{
+  "summary": "IT professional with hands on experience supporting users, troubleshooting issues, and improving workflow efficiency. Strong in diagnostics, system support, and fast problem solving.",
+  "skills": [
+    "Technical Support", "Networking", "Active Directory", "Windows", "MacOS",
+    "Troubleshooting", "Customer Support", "Microsoft 365", "Ticketing Systems",
+    "Python", "Basic Cybersecurity", "Remote Support"
+  ],
+  "experience": [
+    {
+      "title": "Desk Operations Assistant — UNC Pembroke Housing",
+      "dates": "Sep 2022 – Dec 2025",
+      "bullets": [
+        "Provided front line technical and operational support for students and staff.",
+        "Resolved access issues, dorm system problems, and student account requests.",
+        "Coordinated communication between housing, maintenance, and campus departments."
+      ]
+    },
+    {
+      "title": "IT Support — Walmart (Front End Associate)",
+      "dates": "Apr 2024 – Aug 2024",
+      "bullets": [
+        "Assisted with device troubleshooting at registers and kiosks.",
+        "Supported POS configurations and reported technical issues to management.",
+        "Provided customer and internal support for daily operations."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "Weather Website App",
+      "dates": "2024",
+      "bullets": [
+        "Built a weather application using API integration and responsive UI design.",
+        "Implemented search features, data rendering, and mobile compatibility."
+      ]
+    }
+  ],
+  "education": "Bachelor of Science (B.S.) in Computer Science & Cybersecurity — UNC Pembroke, 2025",
+  "certifications": [
+    "CompTIA Security+",
+    "Qualys Vulnerability Management",
+    "ISC2 CC (In Progress)"
+  ]
+}

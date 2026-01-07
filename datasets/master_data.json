@@ -1,0 +1,79 @@
+{
+  "summary": "Data minded cybersecurity student with experience using Python, Pandas, and basic visualization tools to explore datasets and communicate findings. Completed a healthcare analytics externship and multiple academic projects where I cleaned data, created simple models, and presented insights to non technical audiences.",
+
+  "skills": [
+    "Python",
+    "Pandas",
+    "NumPy",
+    "Data Cleaning",
+    "Exploratory Data Analysis",
+    "Matplotlib or Plotting Libraries",
+    "Basic Statistics",
+    "SQL Fundamentals",
+    "Excel for Analysis",
+    "CSV and JSON Handling",
+    "Data Documentation",
+    "Presentation of Findings",
+    "Jupyter and Colab",
+    "Problem Framing"
+  ],
+
+  "experience": [
+    {
+      "title": "Data Analytics Extern, TruBridge",
+      "dates": "Sep 2025 - Oct 2025",
+      "bullets": [
+        "Explored healthcare related datasets using Python and Pandas in Google Colab to understand trends and patterns.",
+        "Cleaned raw inputs by handling missing values and inconsistent formats to prepare them for analysis.",
+        "Created simple charts and tables to show trends in conditions and risk factors to non technical reviewers.",
+        "Wrote short summaries of findings that explained what the numbers might mean for decision makers."
+      ]
+    },
+    {
+      "title": "Cybersecurity Research Assistant, UNC Pembroke",
+      "dates": "Mar 2024 to Dec 2025",
+      "bullets": [
+        "Recorded metrics from SDN experiments such as packet behavior and performance under different conditions.",
+        "Organized results into tables and basic visualizations to compare different test runs.",
+        "Helped interpret the meaning of results during discussions with faculty and other students.",
+        "Practiced keeping data and configurations organized so experiments could be repeated later."
+      ]
+    },
+    {
+      "title": "Tech Sales and Electronics Associate, JBC Electronic Shop",
+      "dates": "2019 to 2022",
+      "bullets": [
+        "Observed which devices and services were most requested and discussed patterns with the shop owner.",
+        "Helped track simple sales and service patterns using spreadsheets.",
+        "Used informal data to suggest which accessories and services the shop should focus on more."
+      ]
+    }
+  ],
+
+  "projects": [
+    {
+      "title": "Healthcare Trend Exploration Project",
+      "bullets": [
+        "Used Pandas to load and transform healthcare datasets provided during the externship program.",
+        "Built summary tables that compared key metrics across categories and time periods.",
+        "Created basic visualizations to support written insights and recommendations."
+      ]
+    },
+    {
+      "title": "Network Experiment Result Logger",
+      "bullets": [
+        "Designed a small logging format in CSV for recording experiment scenarios, parameters, and outcomes in the SDN lab.",
+        "Practiced converting logs into simple visualizations and structured summaries.",
+        "Improved the clarity of research notes by connecting numeric results with narrative explanations."
+      ]
+    }
+  ],
+
+  "education": "Bachelor of Science in Cybersecurity, Minor in Economics, University of North Carolina at Pembroke, Expected Graduation December 2025",
+
+  "certifications": [
+    "CompTIA Security+",
+    "Qualys Vulnerability Management Certification",
+    "Truist Emerging Leaders Certification"
+  ]
+}

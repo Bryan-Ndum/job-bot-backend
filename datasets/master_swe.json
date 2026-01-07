@@ -1,0 +1,68 @@
+{
+  "summary": "Aspiring software engineer with experience writing Python and JavaScript for academic projects, research tools, and hackathon prototypes. Comfortable working with APIs, basic web applications, and simple automation scripts. Looking for junior software engineering roles where I can contribute to feature development, debugging, and backend or tooling work.",
+
+  "skills": [
+    "Python",
+    "JavaScript",
+    "Basic Java",
+    "APIs and JSON",
+    "REST Integration",
+    "HTML and CSS",
+    "Version Control with Git and GitHub",
+    "Basic Data Structures and Logic",
+    "Scripting and Automation",
+    "Debugging and Testing Mindset",
+    "Simple CLI Tools",
+    "Problem Solving",
+    "Team Collaboration"
+  ],
+
+  "experience": [
+    {
+      "title": "Cybersecurity Research Assistant, UNC Pembroke",
+      "dates": "Mar 2024 to Dec 2025",
+      "bullets": [
+        "Wrote scripts to automate parts of network experiments, including setup steps and data collection.",
+        "Adjusted P4 programs and related configuration files to test different behaviors in software defined networks.",
+        "Assisted with troubleshooting unexpected behaviors in the lab environment by inspecting logs and packet traces.",
+        "Documented how scripts and configurations should be used so other students could reuse them."
+      ]
+    },
+    {
+      "title": "Support and Operations Intern, WorldStrides Envision",
+      "dates": "Summer 2025",
+      "bullets": [
+        "Interacted with internal systems and tools that support operations and logistics, observing how software supports real users.",
+        "Reported bugs and usability issues in internal tools clearly and suggested improvements where appropriate.",
+        "Learned to consider both technical and non technical perspectives when software issues impacted events."
+      ]
+    }
+  ],
+
+  "projects": [
+    {
+      "title": "AI Music Recommendation System",
+      "bullets": [
+        "Built a small application that calls the Spotify API to retrieve song features and recommend similar tracks.",
+        "Implemented logic in Python to process responses and compute a simple similarity style recommendation metric.",
+        "Created a basic web interface in HTML, CSS, and JavaScript to search tracks and display suggestions."
+      ]
+    },
+    {
+      "title": "AfroSecured Verification Prototype",
+      "bullets": [
+        "Developed a prototype that sends requests to external services to collect trust related information about websites.",
+        "Structured the code to keep API calls, scoring logic, and display separate for easier changes later.",
+        "Built the first working version under time pressure in hackathon settings and improved it based on feedback."
+      ]
+    }
+  ],
+
+  "education": "Bachelor of Science in Cybersecurity, Minor in Economics, University of North Carolina at Pembroke, 2025",
+
+  "certifications": [
+    "CompTIA Security+",
+    "Qualys Vulnerability Management Certification",
+    "Truist Emerging Leaders Certification"
+  ]
+}

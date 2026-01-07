@@ -1,0 +1,81 @@
+{
+  "summary": "Cybersecurity focused student with research experience in software defined networking, P4 based packet processing, and attack simulation. Comfortable using tools like Wireshark and Nmap to analyze traffic and document findings. Interested in junior roles that involve security monitoring, vulnerability analysis, or supporting blue team activities.",
+
+  "skills": [
+    "Cybersecurity Fundamentals",
+    "Network Security",
+    "Software Defined Networking (SDN)",
+    "P4 Programming",
+    "Linux",
+    "Wireshark",
+    "Nmap",
+    "Basic Scripting in Python and Bash",
+    "Vulnerability Scanning Concepts",
+    "Packet Analysis",
+    "Security Documentation",
+    "Threat Modeling Basics",
+    "Log Review and Reporting",
+    "Version Control with Git",
+    "API Security Awareness"
+  ],
+
+  "experience": [
+    {
+      "title": "Cybersecurity Research Assistant, UNC Pembroke",
+      "dates": "Mar 2024 to Dec 2025",
+      "bullets": [
+        "Worked on a research project focused on self driven secure networks using SDN and P4 to improve flexibility and visibility.",
+        "Configured Open vSwitch based environments to simulate different network topologies for attack and defense testing.",
+        "Created and modified P4 programs that defined how packets are inspected and forwarded inside the network.",
+        "Simulated attacks such as flow table saturation and scanning, then documented how the network responded.",
+        "Collaborated with faculty member to interpret experiment results and identify ways to strengthen network defenses."
+      ]
+    },
+    {
+      "title": "Founder, AfroSecured Cybersecurity Platform",
+      "dates": "Sep 2025",
+      "bullets": [
+        "Started a project that helps users verify websites and merchants before they make online payments or investments.",
+        "Implemented checks for domain registration age, HTTPS certificates, and reputation signals to flag risky sites.",
+        "Used public APIs and verification steps to collect data points that increase trust for digital transactions.",
+        "Presented the idea at competitions and worked with mentors to shape it into a cybersecurity product concept."
+      ]
+    },
+    {
+      "title": "Support and Operations Intern, WorldStrides Envision",
+      "dates": "Summer 2025",
+      "bullets": [
+        "Followed company security practices while handling staff issues related to accounts, devices, and access.",
+        "Helped staff keep systems up to date and reported strange behavior or repeated incidents to supervisors.",
+        "Kept simple notes for issues handled to preserve an audit trail and support future improvements."
+      ]
+    }
+  ],
+
+  "projects": [
+    {
+      "title": "SDN Attack Simulation and Monitoring Lab",
+      "bullets": [
+        "Created a local lab using virtual machines, Open vSwitch, and P4 to experiment with SDN security concepts.",
+        "Ran controlled experiments for port scans and denial of service style traffic, then captured results with Wireshark.",
+        "Documented each scenario in a structured way, including what happened, why it matters, and possible mitigations."
+      ]
+    },
+    {
+      "title": "AfroSecured Website and Merchant Checker",
+      "bullets": [
+        "Designed the logic that combines multiple signals like domain age, SSL presence, contact information, and external references to compute a trust feeling for sites.",
+        "Built initial versions of the interface during hackathons and refined the concept based on mentor feedback.",
+        "Aligned the idea with real threats like fake investment websites, phishing pages, and cloned login portals."
+      ]
+    }
+  ],
+
+  "education": "Bachelor of Science in Cybersecurity, Minor in Economics, University of North Carolina at Pembroke, 2025",
+
+  "certifications": [
+    "CompTIA Security+",
+    "Qualys Vulnerability Management Certification",
+    "Truist Emerging Leaders Certification"
+  ]
+}

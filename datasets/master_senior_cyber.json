@@ -1,0 +1,50 @@
+{
+  "summary": "I am a cybersecurity specialist in training with experience in SDN security, research, and security automation. I work well with advanced analysis, scripting, and documentation. I focus on high standards and thoughtful security design.",
+  "skills": [
+    "Advanced network security concepts",
+    "Software defined networking",
+    "P4 based traffic control",
+    "Python automation",
+    "Threat modeling basics",
+    "DDoS research and mitigation patterns",
+    "Linux and Kali",
+    "Packet analysis",
+    "Vulnerability management"
+  ],
+  "experience": [
+    {
+      "title": "Cybersecurity Research Assistant, UNC Pembroke",
+      "dates": "Mar 2024 to Dec 2025",
+      "bullets": [
+        "Researched SDN based attack patterns and documented results for academic and practical use.",
+        "Designed experiments that measure the impact of different DDoS strategies on SDN controllers.",
+        "Used Python, P4, and Open vSwitch to simulate attacks and test defense ideas."
+      ]
+    },
+    {
+      "title": "Founder and Security Architect, AfroSecured",
+      "dates": "Sep 2025",
+      "bullets": [
+        "Planned a security intelligence platform to protect African users from scams and fake platforms.",
+        "Defined threat categories, trust scores, and user verification flows.",
+        "Collaborated with mentors and peers to refine the product concept for real world use."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "VenomAI Security Assistant Concept",
+      "dates": "2025",
+      "bullets": [
+        "Outlined a design for an AI driven security assistant that can simulate attacks and assist with red team style tasks.",
+        "Planned integrations with common security tools to automate data collection and analysis.",
+        "Focused on safe experimentation ideas with clear documentation and guardrails."
+      ]
+    }
+  ],
+  "education": "Bachelor of Science in Cybersecurity, University of North Carolina at Pembroke, 2025",
+  "certifications": [
+    "CompTIA Security+",
+    "Qualys Vulnerability Management"
+  ]
+}

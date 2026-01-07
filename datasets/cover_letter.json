@@ -1,0 +1,14 @@
+{
+  "template": [
+    "Good day Sir/Ma'am,",
+    "",
+    "I am excited to apply for the {{job_title}} role at {{company_name}}. With experience in {{core_skills}}, I have worked across cybersecurity, IT operations, and software development, gaining exposure to {{skills_from_job_description}} and contributing to technical teams through hands-on work and automation projects.",
+    "",
+    "In my previous roles, I have {{relevant_experience}}, supporting environments involving Python, Linux, cloud fundamentals, security tooling, troubleshooting, and documentation. These responsibilities align directly with {{key_responsibility_from_job}}.",
+    "",
+    "I would be excited to bring my technical foundation, problem-solving ability, and commitment to learning to {{company_name}}. Thank you for considering my application. I look forward to the opportunity to discuss how I can contribute to your team.",
+    "",
+    "Sincerely,",
+    "Bryan Ndum"
+  ]
+}
